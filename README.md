@@ -65,7 +65,6 @@ git clone https://github.com/muhammad-rabby/solana-arbitrage-bot && cd solana-ar
 
 ```
 yarn install
-
 ```
 
 4. Enter your Solana wallet private key in the `.env` file (Please protect your private key, and if running on a server, ensure it is secure.).
