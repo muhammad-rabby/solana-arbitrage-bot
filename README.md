@@ -277,7 +277,7 @@ A big thank you to all ARB Protocol developers and everyone who has contributed 
 If you have any ideas or suggestions for improvement while using it, please feel free to contact me.
 
 `Discord: muhammad_rabby`
-`Email: web3muhammadrabby@gmail.com`
+`Email: web3muhammadrabby@gmail.com` 
 
 
 ## risk disclaimer
